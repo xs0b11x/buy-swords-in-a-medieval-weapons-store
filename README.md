@@ -1,0 +1,1 @@
+Este script simula uma loja de armas medievais onde o jogador pode comprar espadas com seu ouro. Ele define um inventário inicial com uma certa quantidade de ouro e espadas. O jogador pode comprar espadas comuns ou raras, e o script verifica se o jogador tem ouro suficiente antes de concluir a compra.
